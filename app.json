@@ -1,0 +1,16 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/bar1/index",
+    "pages/bar2/index",
+    "pages/bar3/index",
+    "pages/bar4/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "backgroundColor": "#eee",
+    "navigationBarBackgroundColor": "#eee",
+    "navigationBarTitleText": "杭州楼市数据 - 仅供参考",
+    "navigationBarTextStyle":"black"
+  }
+}
